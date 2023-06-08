@@ -26,11 +26,12 @@ Users should be able to:
   - The `input` field is empty
 
 ### Screenshot
+![Shortly Screenshot](https://github.com/sahilatahar/Shortly-URL-Shortener/assets/100127570/45e2f501-47a2-4582-9e5f-42d541090476)
 
 ### Links
 
-- Solution URL: [Frontend Solution](https://your-solution-url.com)
-- Live Site URL: [Live on Github](https://your-live-site-url.com)
+- Solution URL: [Frontend Solution](https://www.frontendmentor.io/solutions/shortlyurlshortener-using-vanilla-js-W-rSxMymDD)
+- Live Site URL: [Live on Github](https://sahilatahar.github.io/Shortly-URL-Shortener/)
 
 ## My process
 
