@@ -248,6 +248,7 @@ a {
     justify-content: center;
     align-items: center;
     gap: 2rem;
+    overflow-x: hidden;
 }
 
 .home>* {
@@ -544,7 +545,7 @@ a {
 /* ========== Statistic Section Start ========== */
 .statistic__section {
     background-color: var(--light-grey);
-    padding-bottom: 20rem;
+    padding-bottom: 15rem;
 }
 
 .statistic__section-title {
@@ -602,7 +603,7 @@ a {
 }
 
 .statistic__card:nth-of-type(1) {
-    top: -90%;
+    top: -70%;
     left: 0;
 }
 
@@ -613,7 +614,7 @@ a {
 
 .statistic__card:nth-of-type(3) {
     right: 0;
-    top: 10%;
+    top: -5%;
 }
 
 .card__img {
@@ -767,7 +768,7 @@ a {
 .footer {
     width: 100%;
     display: flex;
-    background-color: var(--very-dark-blue);
+    background-color: var(--very-dark-violet);
     padding: 5rem;
     color: white;
     gap: 2rem;
